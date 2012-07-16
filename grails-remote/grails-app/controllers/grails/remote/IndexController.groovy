@@ -4,7 +4,7 @@ class IndexController {
 
     def index = {
     
-       render "Hola Mundo"
-    
+       render "Adios sistema"
+
     }
 }
